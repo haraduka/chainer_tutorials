@@ -184,7 +184,6 @@ def main():
             st_dash = observation.astype(np.float32).reshape((1,n_st))
             agent.stock_experience(st, act_i, reward, st_dash)
             agent.train()
-            print(reward)
             r_sum += reward
         print "\t".join(map(str,[i_episode, r_sum, agent.epsilon, agent.loss, q_sum ,agent.step]))
         agent.save_model(model_path)
