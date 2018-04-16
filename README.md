@@ -16,3 +16,5 @@ My practice of Chainer.
   - https://docs.chainer.org/en/stable/tutorial/type_check.html
 - `openai_gym.py`
   - https://qiita.com/trtd56/items/3a09d37788d8d13ff131
+- `chainerrl_quickstart.py`
+  - https://github.com/chainer/chainerrl/blob/master/examples/quickstart/quickstart.ipynb
