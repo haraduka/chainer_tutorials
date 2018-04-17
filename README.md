@@ -1,6 +1,6 @@
 # chainer_tutorials
 
-My practice of Chainer.
+My practice of Chainer (Sometimes Pytorch).
 
 - `mnist.py`
   - https://docs.chainer.org/en/stable/tutorial/basic.html
@@ -17,4 +17,6 @@ My practice of Chainer.
 - `openai_gym.py`
   - https://qiita.com/trtd56/items/3a09d37788d8d13ff131
 - `chainerrl_quickstart.py`
+  - https://github.com/chainer/chainerrl/blob/master/examples/quickstart/quickstart.ipynb
+- `pytorch_mnist.py`
   - https://github.com/chainer/chainerrl/blob/master/examples/quickstart/quickstart.ipynb
