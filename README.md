@@ -20,3 +20,5 @@ My practice of Chainer (Sometimes Pytorch).
   - https://github.com/chainer/chainerrl/blob/master/examples/quickstart/quickstart.ipynb
 - `pytorch_mnist.py`
   - https://github.com/chainer/chainerrl/blob/master/examples/quickstart/quickstart.ipynb
+- `lstm_sin_wave.py`
+  - https://qiita.com/chachay/items/052406176c55dd5b9a6a
